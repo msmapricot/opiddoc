@@ -1,0 +1,6 @@
+site_name: OpID Documentation
+site_description: Documentation for project OpID
+theme: mkdocs
+pages: 
+  - ['index.md', 'Index']
+  - ['background.md', 'Background']
