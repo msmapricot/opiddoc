@@ -1,29 +1,54 @@
 {
     "docs": [
         {
-            "location": "/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Index"
-        },
-        {
-            "location": "/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
-        },
-        {
-            "location": "/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
-        },
-        {
             "location": "/background/",
-            "text": "Backcground of the project",
+            "text": "Background of the project",
             "title": "Background"
+        },
+        {
+            "location": "/infrastructure/",
+            "text": "Infrastructure\n\n\nThe infrastructure of the project refers to the tools and environments used to develop project OpID\n\n\nVisual Studio Project\n\n\nAngularJS\n\n\nConnection String",
+            "title": "Infrastructure"
+        },
+        {
+            "location": "/infrastructure/#infrastructure",
+            "text": "The infrastructure of the project refers to the tools and environments used to develop project OpID",
+            "title": "Infrastructure"
+        },
+        {
+            "location": "/infrastructure/#visual-studio-project",
+            "text": "",
+            "title": "Visual Studio Project"
+        },
+        {
+            "location": "/infrastructure/#angularjs",
+            "text": "",
+            "title": "AngularJS"
+        },
+        {
+            "location": "/infrastructure/#connection-string",
+            "text": "",
+            "title": "Connection String"
+        },
+        {
+            "location": "/database/",
+            "text": "Database\n\n\nProject OpID uses a single table called the Research Table",
+            "title": "Database"
+        },
+        {
+            "location": "/database/#database",
+            "text": "Project OpID uses a single table called the Research Table",
+            "title": "Database"
+        },
+        {
+            "location": "/implementation/",
+            "text": "Implementation\n\n\nThe implementation referes to the algorithms used to develop project OpID",
+            "title": "Implementation"
+        },
+        {
+            "location": "/implementation/#implementation",
+            "text": "The implementation referes to the algorithms used to develop project OpID",
+            "title": "Implementation"
         }
     ]
 }

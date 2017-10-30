@@ -1,1 +1,1 @@
-Backcground of the project
+Background of the project
