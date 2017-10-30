@@ -2,7 +2,7 @@ site_name: OpID Documentation
 site_description: Documentation for project OpID
 theme: mkdocs
 pages: 
-  - ['background.md', 'Background']
+  - ['index.md', 'Background']
   - ['infrastructure.md', 'Infrastructure']
   - ['database.md', 'Database']
   - ['implementation.md', 'Implementation']
